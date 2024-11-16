@@ -1,2 +1,3 @@
-# radiz
-Drop in replacement of Redis, based on sqlite with fun features
+# @kanmthorlabs/radiz
+
+> Drop in replacement of Redis, based on sqlite with fun features

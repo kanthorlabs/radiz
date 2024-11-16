@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS radiz_string (
+  key VARCHAR(255) NOT NULL PRIMARY KEY,
+  value TEXT NOT NULL,
+  expired_at UNSIGNED BIGINT
+);
